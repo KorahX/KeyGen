@@ -1,6 +1,6 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKorahX%2FKeyGen&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic)
 <p align="center">
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKorahX%2FKeyGen&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKorahX%2FKeyGen&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic)
 </p><br>
 Java desktop application to generate random secure and strong password with lowercase & uppercase letters, symbols and numbers. This application let user to define any length for the password ranging between 8 and 25.
 
