@@ -1,6 +1,8 @@
-# Password-Generator
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FKorahX%2FKeyGen&label=Visitors&labelColor=%23000000&countColor=%2300ff00&style=plastic)
+<p align="center">
+  <img src="https://img.shields.io/github/stars/korahx/KeyGen?style=social">
   <img src="https://img.shields.io/tokei/lines/github/korahx/KeyGen">
+  <img src="https://img.shields.io/github/repo-size/korahx/KeyGen">
 </p><br>
 Java desktop application to generate random secure and strong password with lowercase & uppercase letters, symbols and numbers. This application let user to define any length for the password ranging between 8 and 25.
 
